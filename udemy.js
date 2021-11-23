@@ -18,3 +18,22 @@
 //     const yearsLeft = 18 - age
 //     console.log(`Sarah needs to wait ${yearsLeft} years`)
 // }
+
+// 5 falsy values: 0 , '', undefined, null, NaN.
+// 0 false at all times                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+// && (and)
+// || (or)
+// === 
+// ==
+
+// const day = "tuesday ";
+
+// switch (day) {
+//     case `monday`:
+//         console.log('Plan course structure');
+//         console.log('got to shop');
+//         break;
+//     case 'tuesday':
+//         console.log('run')
+//         break
+// }
