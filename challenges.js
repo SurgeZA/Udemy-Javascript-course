@@ -17,3 +17,12 @@
 // console.log(mark_Bmi)
 
 // Challenge 2
+
+
+// const billValue = 275
+
+// const tip = billValue <= 300 && billValue >= 50 ? billValue * 0.15 : bill * 02;
+
+// console.log(`The bill was ${bill} , the tip is ${tip} , the total is ${bill + tip}`);
+
+// Section 2

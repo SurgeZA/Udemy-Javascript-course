@@ -37,3 +37,12 @@
 //         console.log('run')
 //         break
 // }
+
+//  conditionals (? if)
+
+// const age = 23;
+// age >= 18 ? console.log('I Like to drink wine') :
+//     console.log('I like to drink water');
+
+// Section 2
+
